@@ -127,7 +127,6 @@ while True:
                             <h2 align=""center"" class=""h2""> \
                              ""Ayman Salama 1200488"" <br> \
                              ""Ahmad Bakri 1201509"" <br> \
-                             ""Samuel Tannous 1201123"" <br> \
                             </h2> \
                             </body> \
                             </html>")
